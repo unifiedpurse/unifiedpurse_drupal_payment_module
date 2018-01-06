@@ -1,0 +1,6 @@
+; $Id$
+name = UnifiedPurse - Drupal Plugin
+description = eCommerce - UnifiedPurse - Drupal Plugin
+
+core = 6.x
+version = "6.x"
